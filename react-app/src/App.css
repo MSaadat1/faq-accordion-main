@@ -1,0 +1,28 @@
+:root {
+  --purple100: hsl(275, 100%, 97%);
+}
+
+.main {
+  width: 1445px;
+  max-width: 100%;
+  margin: 0 auto;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: var(--purple100);
+  background-image: url(/images/background-pattern-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 100% 33.33 vh;
+}
+
+@media (max-width: 375px) {
+  .main {
+    width: 375px;
+    background-image: url(/images/background-pattern-mobile.svg);
+    background-repeat: no-repeat;
+  }
+}
