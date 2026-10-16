@@ -27,15 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./react-app/public/screenshots/desktop.jpg);
-![Desktop-active](./react-app/public/screenshots/desktop-active.png);
+![Desktop](./react-app/public/screenshots/desktop.png)
+![Desktop-active](./react-app/public/screenshots/desktop-active.png)
 ![Mobile](./react-app/public/screenshots/mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/MSaadat1/faq-accordion-main)
+- Live Site URL: [Live URL here](https://msaadat1.github.io/faq-accordion-main/)
 
 ## My process
 
